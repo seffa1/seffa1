@@ -4,7 +4,7 @@
 </p>
 
 
-- See my portfolio site here: [https://sameffa-portfolio.netlify.app/](https://sameffa-portfolio.netlify.app/)
+- See my portfolio site here: [http://www.sameffa.com/)
 
 - Short cut to my resume: [https://sameffa-portfolio.netlify.app/static/media/resume.fb4e8bc66c8646cc07ea.pdf](https://sameffa-portfolio.netlify.app/static/media/resume.fb4e8bc66c8646cc07ea.pdf)
 
