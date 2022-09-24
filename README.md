@@ -1,17 +1,13 @@
 <h1 align="center">Hello, I'm Sam Effa</h1>
 <h3 align="center">A web developer looking for a remote job</h3>
 
-- 🔭 I’m currently working on [a full stack Twitter Clone](https://github.com/seffa1/twitter-clone)
+- See my portfolio site here: [https://sameffa-portfolio.netlify.app/](https://sameffa-portfolio.netlify.app/)
 
-- I’m currently learning **React, express, firebase**
-
-- All of my projects are available at [https://sameffa-portfolio.netlify.app/](https://sameffa-portfolio.netlify.app/)
-
-- Ask me about **a junior developer position**
+- Short cut to my resume: [https://sameffa-portfolio.netlify.app/static/media/resume.fb4e8bc66c8646cc07ea.pdf](https://sameffa-portfolio.netlify.app/static/media/resume.fb4e8bc66c8646cc07ea.pdf)
 
 - How to reach me **sameffa1@gmail.com**
 
-- Know about my experiences [https://sameffa-portfolio.netlify.app/static/media/resume.fb4e8bc66c8646cc07ea.pdf](https://sameffa-portfolio.netlify.app/static/media/resume.fb4e8bc66c8646cc07ea.pdf)
+- I’m currently working on [a full stack Twitter Clone](https://github.com/seffa1/twitter-clone)
 
 - A also love **writing games in python and javascript**
 
