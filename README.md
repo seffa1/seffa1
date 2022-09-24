@@ -1,4 +1,8 @@
+<div align="center">
 ![banner_2](https://user-images.githubusercontent.com/94399429/192098171-4fcdbd6a-207a-48ca-832d-763180a4dca8.png)
+  
+</div>
+
 
 - See my portfolio site here: [https://sameffa-portfolio.netlify.app/](https://sameffa-portfolio.netlify.app/)
 
