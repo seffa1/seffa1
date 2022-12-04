@@ -1,18 +1,6 @@
 
-<p align="middle">
-  <img src="https://user-images.githubusercontent.com/94399429/192098171-4fcdbd6a-207a-48ca-832d-763180a4dca8.png" width/>
-</p>
-
-
+- I am working on a Godot game right now 
 - See my portfolio site here: [http://www.sameffa.com/)
-
-- Short cut to my resume: [http://www.sameffa.com/static/media/resume.fb4e8bc66c8646cc07ea.pdf)
-
-- How to reach me **sameffa1@gmail.com**
-
-- I’m currently working on [a full stack Twitter Clone](https://github.com/seffa1/twitter-clone)
-
-- A also love **writing games in python and javascript**
 
 <p align="left">
 </p>
